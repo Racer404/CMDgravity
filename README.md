@@ -1,5 +1,6 @@
 # CMDgravity
 A programme calculates gravity and draw it on Console
+USE java -jar CMDgravity.jar to run.
 
 Main Theory:
 
