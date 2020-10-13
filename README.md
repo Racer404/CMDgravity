@@ -1,5 +1,5 @@
-# gravitySimulator
-A programme calculates gravity on orbit and form speeds every seconds,JAVA
+# CMDgravity
+A programme calculates gravity and draw it on Console
 
 Main Theory:
 
